@@ -1,0 +1,49 @@
+/* Segoe */
+
+@font-face{
+    font-family: SegoeLight;
+    font-style: normal;
+    font-weight: 100;
+    src: url("segoeuil.ttf"); /*IE9 Compat Modes*/
+    src: local("Segoe"), url("segoeuil.ttf");
+}
+
+@font-face{
+    font-family: SegoeSemiLight;
+    font-style: normal;
+    font-weight: 300;
+    src: url("segoeuisl.ttf"); /*IE9 Compat Modes*/
+    src: local("Segoe"), url("segoeuisl.ttf");
+}
+
+@font-face{
+    font-family: SegoeRegular;
+    font-style: normal;
+    font-weight: 400;
+    src: url("segoeui.ttf"); /*IE9 Compat Modes*/
+    src: local("Segoe"), url("segoeui.ttf");
+}
+
+@font-face{
+    font-family: SegoeSemiBold;
+    font-style: normal;
+    font-weight: 500;
+    src: url("seguisb.ttf"); /*IE9 Compat Modes*/
+    src: local("Segoe"), url("seguisb.ttf");
+}
+
+@font-face{
+    font-family: SegoeBold;
+    font-style: normal;
+    font-weight: 700;
+    src: url("segoeuib.ttf"); /*IE9 Compat Modes*/
+    src: local("Segoe"), url("segoeuib.ttf");
+}
+
+@font-face{
+    font-family: SegoeBlack;
+    font-style: normal;
+    font-weight: 900;
+    src: url("seguibl.ttf"); /*IE9 Compat Modes*/
+    src: local("Segoe"), url("seguibl.ttf");
+}
